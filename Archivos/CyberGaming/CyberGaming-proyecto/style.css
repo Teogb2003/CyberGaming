@@ -1,0 +1,44 @@
+body{
+background-image: url(img/fondo.avif);
+background-repeat: no-repeat;
+background-size: cover ;
+}
+
+
+
+.titulo{
+     text-align: center;
+     color: rgb(255, 255, 255);
+     font-style: italic;
+     font-size: 100px;
+ 
+}
+
+.texto{
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+}
+
+.imagen{ 
+    width: 750px;
+    height: 450px;
+}
+
+.boton{
+        text-align: center;
+}
+
+.btn-1{
+font-size: 18px;
+background-color: rgba(0, 89, 255);
+padding: 15px 35px;
+text-decoration: none;
+color: rgb(255, 255, 255);
+border-radius: 10px;
+}
+
+
+
+
